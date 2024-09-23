@@ -1,4 +1,4 @@
-# Machine Learning Project Evaluate Sports Data for Insights
+# Machine Learning Project to Evaluate Sports Data for Insights
 ## Task 5: Exploratory Data Anaysis (Sports)
 Steps:
 
