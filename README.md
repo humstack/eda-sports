@@ -1,4 +1,4 @@
-# Machine Learning Project to Predict How a Student's Study Hours affect Academic Performance
+# Machine Learning Project Evaluate Sports Data for Insights
 ## Task 5: Exploratory Data Anaysis (Sports)
 Steps:
 
